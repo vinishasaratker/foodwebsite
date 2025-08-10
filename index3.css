@@ -1431,7 +1431,7 @@ justify-content: center;
     width: 102%;
     height: 90vh;
     border: 1px solid black; 
-     /* background-color: palegreen; */
+    
      background-image: url(./ppp.jpg);
      background-position: center;
      background-repeat: no-repeat;
