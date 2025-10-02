@@ -1,6 +1,7 @@
 
 .sec{
      height: 97vh;
+     
     width: 100%;
 flex-wrap: wrap;
     gap: 50px;  
@@ -36,3 +37,4 @@ background-image: url(./vvvvv.jpeg);
    /* transform: translate(100px,0px); */
 
 }
+
